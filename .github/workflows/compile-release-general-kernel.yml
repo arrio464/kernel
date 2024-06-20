@@ -33,16 +33,14 @@ on:
           - 6.1.y
           - 6.1.61
           - 6.1.81
-          - 6.1.87
           - 6.1.90
           - 6.1.92
-          - 6.1.93
+          - 6.1.94
           - 6.6.y
           - 6.6.28
           - 6.6.30
-          - 6.6.31
           - 6.6.32
-          - 6.6.33
+          - 6.6.34
       kernel_auto:
         description: "Auto use the latest kernel"
         required: false
