@@ -18,7 +18,7 @@ on:
         options:
           - unifreq/linux-5.10.y-rk35xx
           - armbian/linux-rockchip@rk-6.1-rkr3
-          - LubanCat/lbc-develop-5.10
+          - LubanCat/kernel@lbc-develop-5.10
       kernel_version:
         description: "Select kernel version"
         required: false
