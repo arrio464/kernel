@@ -16,6 +16,7 @@ on:
         default: "unifreq"
         type: choice
         options:
+          - arrio464
           - Lemon1151
           - unifreq
           - codesnas
